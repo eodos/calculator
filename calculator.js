@@ -72,6 +72,8 @@ function parseOperator(operator) {
 	// }
 
 	entry = '0';
+	isDecimal = false;
+	digits = 0;
 	$('#history').text(calculatorHistory);
 	$('#current').text(entry);
 }
