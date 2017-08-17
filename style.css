@@ -8,10 +8,10 @@ body {
 }
 
 .display {
-	border: solid black 3px;
-	/*	height: 60px;
-	width: 200px;*/
+	border: solid black 2px;
+	/*width: 400px;*/
 	text-align: right;
+	background: #ddd;
 }
 
 #current {
